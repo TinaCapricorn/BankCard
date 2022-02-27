@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gkuvnno2dp6hpcy0?svg=true)](https://ci.appveyor.com/project/TinaCapricorn/bankcard)
